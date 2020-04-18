@@ -1,0 +1,18 @@
+//
+//  LPPrefixHeader.pch
+//  LosslessPlayer
+//
+//  Created by Jack Chen on 2020/4/14.
+//  Copyright © 2020 JackChen. All rights reserved.
+//
+
+#ifndef LPPrefixHeader_pch
+#define LPPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#include "PreDefineHeader.h"
+#include "PreincludeHeader.h"
+
+#endif /* LPPrefixHeader_pch */
